@@ -24,3 +24,5 @@ Stay safe out there,
 - Co-Owner: Sofia
 - Main developers: neglekt, Sofia
 - Contributors: neglekt, Sofia
+
+We love anyone who tries to help us by contributing or trying to help us improve our bot. Join our Discord or contact us if you wanna contribute
