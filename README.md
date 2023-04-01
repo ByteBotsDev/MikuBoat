@@ -18,3 +18,9 @@ If you read this whole thing, you're a real one and you certainly have interest 
 
 Stay safe out there,
 - neg
+
+# Additional info
+- Owner: neglekt
+- Co-Owner: Sofia
+- Main developers: neglekt, Sofia
+- Contributors: neglekt, Sofia
