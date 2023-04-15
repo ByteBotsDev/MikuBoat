@@ -1,7 +1,7 @@
 # MikuBoat
 MikuBoat is a free-to-use Discord bot that plays music in your voice channels. Enjoy your favorite music with your friends in high-quality, with a tons of features and mainly, completely for free!
 
-MikuBoat is ran by neglekt (me), and the code was written by Sofia and edited a bit by me. I take care about the bot and when there's any problem, I'm the one responsible for fixing it. So don't go after Sofia saying "The bot is not working!" or "The bot lags!" etc., its not her problem and responsibility to fix it.
+MikuBoat is ran by dio (me), and the code was written by Sofia and edited a bit by me. I take care about the bot and when there's any problem, I'm the one responsible for fixing it. So don't go after Sofia saying "The bot is not working!" or "The bot lags!" etc., its not her problem and responsibility to fix it.
 
 # Development of MikuBoat
 The code for MikuBoat was originally written by Sofia and edited a bit by me so everything works perfectly. We plan to rewrite the code in the future, but after the code gets "old" or when we'll need to rewrite it. As said before, the bot is fully ran by me, on my PC. Meaning any outage is mine responsibility to fix, any bugs or problems etc. We do appreciate any help you offer us, but we will keep MikuBoat to ourselves, me, Sofia and our certified Team for now.
@@ -20,7 +20,7 @@ Stay safe out there,
 - neg
 
 # Additional info
-- Owner: neglekt
+- Owner: dio
 - Co-Owner: Sofia
 - Main developers: neglekt, Sofia
 - Contributors: neglekt, Sofia
