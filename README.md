@@ -1,7 +1,7 @@
 # MikuBoat
 MikuBoat is a free-to-use Discord bot that plays music in your voice channels. Enjoy your favorite music with your friends in high-quality, with a tons of features and mainly, completely for free!
 
-MikuBoat is ran by dio (me), and the code was written by Sofia and edited a bit by me. I take care about the bot and when there's any problem, I'm the one responsible for fixing it. So don't go after Sofia saying "The bot is not working!" or "The bot lags!" etc., its not her problem and responsibility to fix it.
+MikuBoat is ran and written by s1ckles (me), and the code was co-written by Sofia and also edited a bit by me. I take care about the bot and when there's any problem, I'm the one responsible for fixing it. So don't go after Sofia saying "The bot is not working!" or "The bot lags!" etc., its not her problem and responsibility to fix it.
 
 # Development of MikuBoat
 The code for MikuBoat was originally written by Sofia and edited a bit by me so everything works perfectly. We plan to rewrite the code in the future, but after the code gets "old" or when we'll need to rewrite it. As said before, the bot is fully ran by me, on my PC. Meaning any outage is mine responsibility to fix, any bugs or problems etc. We do appreciate any help you offer us, but we will keep MikuBoat to ourselves, me, Sofia and our certified Team for now.
@@ -17,12 +17,12 @@ You can get support on our official Discord server, link on my profile.
 If you read this whole thing, you're a real one and you certainly have interest in our work. You can try to apply to join the ByteBots team anytime on our Discord, if applications are open! We love to hire new people to help us with our work.
 
 Stay safe out there,
-- neg
+- s1ckles
 
 # Additional info
-- Owner: dio
+- Owner: s1ckles
 - Co-Owner: Sofia
-- Main developers: neglekt, Sofia
-- Contributors: neglekt, Sofia
+- Main developers: s1ckles, Sofia
+- Contributors: s1ckles, Sofia
 
 We love anyone who tries to help us by contributing or trying to help us improve our bot. Join our Discord or contact us if you wanna contribute
