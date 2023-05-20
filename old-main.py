@@ -7,6 +7,12 @@ import discord
 import youtube_dl
 from async_timeout import timeout
 from discord.ext import commands
+from discord.ext import SlashCommands
+
+@client.event
+async def on_ready():
+    print("Ready!")
+
 youtube_dl.utils.bug_reports_message = lambda: ''
 class VoiceError(Exception):
     pass
